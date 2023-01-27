@@ -1,0 +1,14 @@
+[
+  {
+    "gameVersion": "1.19.3",
+    "name": "RiverMC 1.19.3 (Normal)",
+    "url": "https://github.com/TheArmagan/rivermc/releases/download/latest/instance-1.19.3.zip",
+    "version": "0"
+  },
+  {
+    "gameVersion": "1.19.3",
+    "name": "RiverMC 1.19.3 (Performance)",
+    "url": "https://github.com/TheArmagan/rivermc/releases/download/latest/instance-1.19.3-performance.zip",
+    "version": "0"
+  }
+]
