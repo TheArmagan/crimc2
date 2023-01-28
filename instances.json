@@ -4,13 +4,13 @@
     "gameVersion": "1.19.3",
     "name": "RiverMC 1.19.3 (Normal)",
     "downloadUrl": "https://github.com/TheArmagan/rivermc/releases/download/latest/instance-1.19.3-normal.zip",
-    "version": "4"
+    "version": "5"
   },
   {
     "id": "1.19.3-performance",
     "gameVersion": "1.19.3",
     "name": "RiverMC 1.19.3 (Performance)",
     "downloadUrl": "https://github.com/TheArmagan/rivermc/releases/download/latest/instance-1.19.3-performance.zip",
-    "version": "0"
+    "version": "1"
   }
 ]
